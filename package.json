@@ -1,0 +1,19 @@
+{
+  "name": "qq-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfle.js",
+  "dependencies": {
+    "gulp.spritesmith": "^6.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
